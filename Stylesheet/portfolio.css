@@ -2,6 +2,7 @@
 /* Body */
 body {
     margin: 0%; /* This ensures the site diplays all the way to the edge of the browser screen */
+    background-color: black;
 }
 
 /* Heading 1 elements */
